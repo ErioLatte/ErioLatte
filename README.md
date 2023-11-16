@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo17899
-Fork on GitHub5258
 <h1 align="center">Hi 👋, I'm Erio Yoshino</h1>
 <h3 align="center">A curious person who loves machine learning & automation</h3>
 
