@@ -7,7 +7,7 @@ Fork on GitHub5258
 
 - 🔭 I’m currently working on [face classification](https://github.com/ErioLatte/CompVision_face_detector)
 
-- 🌱 I’m currently learning **opencv**
+- 🌱 I’m currently learning opencv & tf optimization
 
 - 👨‍💻 All of my projects are available at [https://github.com/ErioLatte](https://github.com/ErioLatte)
 
@@ -15,8 +15,14 @@ Fork on GitHub5258
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/erio-yoshino-229b30235/](https://www.linkedin.com/in/erio-yoshino-229b30235/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">📞Connect with me:</h3>
+<p>
+  <a href="https://www.linkedin.com/in/erio-yoshino-229b30235/">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/ErioLatte">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a>
 </p>
 
 <h3 align="left">🛠️ My Toolbelt:</h3>
