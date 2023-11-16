@@ -9,6 +9,7 @@
 
 - 📫 How to reach me **erioyoshino99@gmail.com**
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ErioLatte&theme=tokyonight)](https://github.com/ErioLatte/github-readme-stats)
 
 <h3 align="left">📞Connect with me:</h3>
 <p align="left">
