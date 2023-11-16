@@ -5,15 +5,14 @@ Fork on GitHub5258
 <h1 align="center">Hi 👋, I'm Erio Yoshino</h1>
 <h3 align="center">A curious person who loves machine learning & automation</h3>
 
-- 🔭 I’m currently working on [face classification](https://github.com/ErioLatte/CompVision_face_detector)
+- 🔭 Projects I’m currently working on [face classification](https://github.com/ErioLatte/CompVision_face_detector)
 
-- 🌱 I’m currently learning opencv & tf optimization
+- 🌱 I’m currently learning **opencv & tf optimization**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ErioLatte](https://github.com/ErioLatte)
 
 - 📫 How to reach me **erioyoshino99@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/erio-yoshino-229b30235/](https://www.linkedin.com/in/erio-yoshino-229b30235/)
 
 <h3 align="left">📞Connect with me:</h3>
 <p align="left">
