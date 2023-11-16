@@ -20,6 +20,4 @@ Fork on GitHub5258
 </p>
 
 <h3 align="left">🛠️ My Toolbelt:</h3>
-```md
-[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,django,c,cpp,cs,dotnet,mysql,github&perline=10)](https://skillicons.dev)
-```
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
