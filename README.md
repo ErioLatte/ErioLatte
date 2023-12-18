@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erio Yoshino</h1>
-<h3 align="center">A curious person who loves machine learning & automation</h3>
+<h3 align="center">A curious student who loves machine learning & automation</h3>
 
 - 🔭 Projects I’m currently working on -
 
